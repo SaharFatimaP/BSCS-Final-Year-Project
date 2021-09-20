@@ -1,0 +1,178 @@
+% adapted by WS from SSR's Word document and from the 5-part series at
+% https://www.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_1):_Basic_Structure
+% reviewed by MAM
+\documentclass[12pt,twosided]{report}
+\usepackage[titletoc]{appendix} % for adding appendix to TOC
+\usepackage{biblatex}  % reference management
+\usepackage{geometry}  % better margins and margin control
+\usepackage{graphicx}  % to include figures
+
+\usepackage{hyperref}  % internal and external links
+\usepackage[utf8]{inputenc}  % support for non-ASCII characters
+\usepackage{listings}  % typset code
+\usepackage{outlines}  % easy nesting of lists
+\usepackage{tabularx}  % more control over table column width
+\usepackage{titlesec}  % customize chapter title 
+\usepackage{upquote}  % prevent mishandling of single quotes in listings
+\usepackage{pythontex}
+\usepackage{setspace}
+
+% TODO: Customize the appearance of hyperref links using \hypersetup
+% See https://en.wikibooks.org/wiki/LaTeX/Hyperlinks#Customization
+
+% Custom format of chapter title.
+\titleformat{\chapter}[hang]{\bf\huge}{\thechapter.}{2pc}{}
+
+% Separate folder for images named 'images'.
+\graphicspath{ {images/} }
+
+% Separate file for references
+\addbibresource{references.bib}
+
+% Replace with your title
+\title{Chhoti Si Kaavish}
+
+% Allow recalling document title
+% from https://tex.stackexchange.com/a/15806/44301
+\makeatletter\let\Title\@title\makeatother  
+
+\begin{document}
+
+
+% Python environment
+\lstnewenvironment{python}[1][]
+{
+\pythonstyle
+\lstset{#1}
+}
+{}
+
+% Python for external files
+\newcommand\pythonexternal[2][]{{
+\pythonstyle
+\lstinputlisting[#1]{#2}}}
+
+% Python for inline
+\newcommand\pythoninline[1]{{\pythonstyle\lstinline!#1!}}
+
+
+\include{titlepage}  % title page
+\include{approval}  % approval page.
+
+\newpage
+
+\vspace*{\fill} 
+\begin{quote} 
+
+\begin{center}
+    ``Your sickness is from you, but you do not perceive it and your remedy is within you, but you do not sense it. You presume you are a small entity, but within you is enfolded the entire Universe. You are indeed the evident book, by whose alphabets the hidden becomes manifest. Therefore, you have no need to look beyond yourself. What you seek is within you, if only you reflect." (Imam Ali A.S)
+\end{center}
+    
+    
+\end{quote}
+\vspace*{\fill}
+
+
+\chapter*{}
+\vspace*{\fill}
+\begin{center}
+    This project is dedicated to our beloved parents, respectable professors and supportive friends We pray to Allah Almighty for their health and pray to keep them saved from this Covid-19 and all other diseases. 
+\end{center}
+
+\vspace*{\fill}
+
+\chapter*{Acknowledgements}
+\
+By the grace of Allah Almighty this journey comes to its end. It was not possible without the sincere, cooperative, and brilliant people around us. We would like to give credit of our success to several individuals and of course to ``Habib University''. Firstly, we would like to express our sincere thanks to our supervisor, professor ``Dr Akhlaque Ahmed'' who supported us through out the project. His valuable advises, insightful comments, helpful information, and unceasing ideas, even in this pandemic and uncertain situation of COVID-19, helped us to successfully complete our project. It wasn't possible without his relentless help.  \newline
+We also wish to express our sincere thanks to all our professors  and``Kaavish Working Group'', who guided us through out our journey, keep us updated in this worst time and answered every query on time. Furthermore, we would like appreciate the guidance given by other supervisors as well as the panel (Dr. Taj, Dr. Abdul Samad, Dr Umair Azfar and Miss Nadia Nasir) especially in our project presentation, who gave valuable comments and advises that improved our presentation skills. \newline
+We would also like to say thanks to Folio3 Software Inc, who gave their precious time to serve us and supervised us through out the project. We are really thankful to them to provide us Real Sense Depth Camera to capture depth images and dataset. \newline
+We are also thankful to our parents who support us and stand by us through the peaks and valleys of life. \newline
+Last but not least, we are also thankful to all our sincere friends who helped us to cheer up the mood and gave us moral support in bad times and special thanks to Syed Muhammad Hasan who helped us in dataset collection and annotation, Aniqa Ahsan and Ateeb Ahmed who also helped us in dataset annotation. 
+\chapter*{Abstract}
+The project, ``instaWeight" aims to automate the process of weight estimation using machine learning and deep learning techniques. It makes the whole process of weight estimation and then tracking the history of cattle's weight in a large farm or in live stock business automatic. It calculates the cattle's weight and then maintain the history of it through admin panel, which keeps all the records saved for years. 
+\newline
+This report gives the complete insight of the project and enlightens each idea in detail. It first describes the problem in the manual way of weight estimation then provides the solution, proposed by ``Team - instaWeight". It also gives a detailed literature review to get the idea of other similar work done in the same domain. The report also have separate sections on software requirement specification and software design specification, which provides the insight of project from requirement gathering to software's structure and design. 
+In the last section of the report, the experiments and their results are mentioned that have been done through out the project. 
+% The following are automatically populated by LaTeX \chapter, \section and related, \figure, and \table.
+\tableofcontents
+\listoffigures
+
+
+% TODO: Put chapters in a separate folder named 'chapters'.
+
+% TODO: Put chapters in a separate folder named 'chapters'.
+
+\titleformat{\chapter}[display]
+{\normalfont\bfseries\filcenter}{\MakeUppercase\chaptertitlename\ \thechapter}{0pt}{\MakeUppercase }  %spacing between titles
+\titlespacing*{\chapter}
+  {0pt}{0pt}{30pt}	%controls vertical margins on title
+  
+% Adjust section title formatting
+\titleformat{\section}{\normalfont\bfseries}{\thesection}{1em}{}
+
+% Adjust subsection title formatting
+\titleformat{\subsection}{\normalfont}{\thesubsection}{0em}{\hspace{1em}}
+
+% Adjust subsubsection title formatting
+\titleformat{\subsubsection}{\normalfont\itshape}{\thesubsection}{1em}{}
+ 
+\chapter{Introduction}
+\label{chap:intro}
+\input{chapters/introduction}
+
+\chapter{Literature Review}
+\label{chap:lit}
+\input{chapters/review}
+
+\chapter{Software Requirement Specification (SRS)}
+\label{chap:srs}
+\input{chapters/srs}
+
+\chapter{Software Design Specification (SDS)}
+\label{chap:sds}
+\input{chapters/sds}
+
+\chapter{Experiments and Results}
+\label{chap:results}
+\input{chapters/results}
+
+\chapter{Conclusion and Future Work}
+\label{chap:outro}
+\input{chapters/conclusion}
+
+\begin{appendices}
+
+\titleformat{\chapter}[hang]{\bf\huge}{Appendix \thechapter.}{2pc}{}
+% \titleformat{\chapter}[hang]{\bf\huge}{\thechapter.}{2pc}{}
+
+  
+% This appendix is optional.
+\chapter{More Math}
+\input{chapters/appendix-math}
+
+% This appendix is required if the data set is not fully described in the main text.
+\chapter{Data}
+\input{chapters/appendix-data}
+
+% This appendix is required if the code is not fully described in the main text.
+\chapter{Code}
+\input{chapters/appendix-code}
+\end{appendices}
+
+\chapter{References}
+\label{chap:references}
+\input{chapters/references}
+
+\chapter{Vita}
+\label{chap:vita}
+\input{chapters/vita}
+
+% Print the bibliography with a ToC entry and titled, "References".
+\printbibliography[heading=bibintoc,title={References}]
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
