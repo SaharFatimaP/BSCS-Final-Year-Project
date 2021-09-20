@@ -1,0 +1,45 @@
+{% extends 'dashboard/pages/base.html' %}
+
+
+{% block main_content %}
+<div class="card">
+    <div class="card-header py-3">
+        <div class="row">
+            <div class="col-6">
+                <h4 class=" text-capitalize text-secondary">Settings</h4>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-6 col-sm-12">
+                <form class="pt-4" method="POST" action="settings" autocomplete="off">
+                    {% csrf_token %}
+                    {{ profile_form }}
+
+                    <br>
+                    <button class="btn btn-dark text-white" name="profile_form" type="submit">Save
+                        Changes</button>
+                </form>
+
+                <form class="pt-4 password-reset-form" method="POST" action="settings" autocomplete="off">
+                    {% csrf_token %}
+                    <div class="form-group">
+                        {% for field in password_form %}
+                            <div>{{ field.label_tag }}</div>
+                            <div class="text-danger">{{ field.errors }}</div>
+                            <div>{{ field.help_text }}</div>
+                            <div>{{ field }}</div>
+                        {% endfor %}
+                    </div>
+
+                    <br>         
+                    <button class="btn btn-dark text-white" name="password_form" type="submit">Save
+                        Changes</button>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+    {% endblock main_content %}

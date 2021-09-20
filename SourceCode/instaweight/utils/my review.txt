@@ -1,0 +1,22 @@
+In this research paper, we visit the global average pooling layer and shed light on how it explicitly enables the convolutional neural network (CNN) to have 
+remarkable localization ability despite being trained on imagelevel labels. While this technique was previously proposed as a means for regularizing training, 
+we ﬁnd that it actually builds a generic localizable deep representation that exposes the implicit attention of CNNs on an image. Despite the apparent 
+simplicity of global average pooling, we are able to achieve 37.1% top-5 error for object localization on ILSVRC 2014 without training on any bounding box 
+annotation.We can see in a variety of experiments (given below) that the network is able to localize the discriminative image regions despite just being trained 
+for solving classiﬁcation.
+
+Insert Figure1.jpg Here..
+
+The final output above is called Class-Activation-Map(CAM). It is actually the regions of the image that are the deciding factors during classification i.e. 
+Discriminative-Regions (DR). These maps are calculated by first finding the node with the highest classification score and then finding the weights that connect 
+the neurons from Global Average Pooling (GAP) layer to the final layer (classification layer). We can then find the linear combination of these weights and feature maps obtained from the last convolutional layer to find the CAM. The figure below illustrates that.
+
+Insert Figure2.jpg here..
+
+The results shown are evident that localization problems(with reliable results) can be solved by using a vanilla CNN without going into the complexity of object detection.
+
+
+
+
+
+

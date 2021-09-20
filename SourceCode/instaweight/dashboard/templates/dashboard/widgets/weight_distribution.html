@@ -1,0 +1,67 @@
+<div class="card h-100">
+    <div class="card-header">
+        <h4>Weight Distribution</h4>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <canvas id="myChartWeight"> </canvas>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="row border-top border-bottom py-2">
+                    <div class="col-6 h6 ">Under Weight</div>
+                    <div class="h6">{{underweight_status}}</div>
+                </div>
+
+                <div class="row border-top border-bottom py-2">
+                    <div class="col-6 h6 ">Normal</div>
+                    <div class="h6">{{normal_status}}</div>
+                </div>
+
+                <div class="row border-top py-2">
+                    <div class="col-6 h6 ">Over Weight</div>
+                    <div class="h6">{{overweight_status}} </div>
+                </div>
+                <div class="row border-top py-2">
+                    <div class="col-6 h6 ">Sold</div>
+                    <div class="h6">{{sold_status}} </div>
+                </div>
+                <div class="row border-top py-2">
+                    <div class="col-6 h6 ">Dead</div>
+                    <div class="h6">{{dead_status}} </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    var ctx = document.getElementById('myChartWeight').getContext('2d');
+    var chart = new Chart(ctx, {
+        // The type of chart we want to create
+        type: 'bar',
+
+        // The data for our dataset
+        data: {
+            labels: ['Underweight', 'Normal', 'Overweight', 'Sold', 'Dead'],
+            datasets: [{
+                label: 'Representation of weight distribution',
+                backgroundColor: 'rgb(0, 0, 128, 1)',
+                borderColor: 'rgb(0, 128, 128, 1)',
+                data: [{{underweight_status}}, {{normal_status}} , {{overweight_status}} , {{sold_status}} , {{dead_status}}],
+        }]
+        },
+
+        // Configuration options g,o here
+        options: {
+
+            scales: {
+                xAxes: [{
+                    barPercentage: 0.4
+                }]
+            }
+        }
+    });
+
+</script> 

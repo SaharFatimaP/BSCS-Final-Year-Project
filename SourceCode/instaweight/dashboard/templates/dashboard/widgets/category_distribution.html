@@ -1,0 +1,79 @@
+<div class="card h-100">
+    <div class="row ">
+        <div class="col-12">
+            <div class="card-header ">
+                <h4>Category Distribution</h4>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+    <div class="row justify-content-center">
+        <div class="mb-2 align-top">
+            <canvas id="doughnut-chart" style="width: 300; height:300" ></canvas>
+        </div>
+    </div>
+    </div>
+    <div class="row">
+        <div class="col-12 mb-1">
+            <div class="row border-top border-bottom py-2 mx-2">
+                <div class="col-6 h5 mb-4">Male
+                    <div class="progress mt-3">
+                        <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar"
+                            aria-valuenow="{{male_distribution}}" aria-valuemin="0" aria-valuemax="{{total_cattle}}" style="width:40%">
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="col-6 h5 mb-4">Female
+                    <div class="progress mt-3">
+                        <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar"
+                            aria-valuenow="{{female_distribution}}" aria-valuemin="0" aria-valuemax="{{total_cattle}}" style="width:30%">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-5 py-2" style="margin-left: 20px;" >
+            <div class="h3">{{gender_distribution.male}}</div>
+            <div class="h5">Male: {{male_distribution}}</div>
+        </div>
+        <div class="col-5  py-2" style="padding-left: 38px;">
+            <div class="h3">{{gender_distribution.female}}</div>
+
+            <div class="h5">Female: {{female_distribution}}</div>
+        </div>
+    </div>
+</div>
+
+<script>
+
+    new Chart(document.getElementById("doughnut-chart"), {
+        type: 'doughnut',
+        data: {
+            labels: [
+                {% for label in breed_labels %}
+                    '{{label}}',
+                {% endfor %}
+            ],
+            datasets: [
+                {
+                    label: "",
+                    backgroundColor: [ "Teal", "DodgerBlue"],
+                    data: {{breed_counts}},
+                }
+            ]
+        },
+        options: {
+            title: {
+                display: true,
+                text: 'Breed wise distribution of cattle'
+            },
+            responsive: false,
+            cutoutPercentage: 70
+
+
+        }
+    });
+
+</script>

@@ -1,0 +1,586 @@
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0000b9fcba019d36.jpg 169,206,925,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0000cb13febe0138.jpg 0,0,668,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\000256419f7c57d8.jpg 195,407,308,499,0 461,373,576,460,0 572,396,630,455,0 700,381,728,447,0 735,367,768,424,0 824,365,866,488,0 867,371,891,438,0 913,372,999,444,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0005a9520eb22c19.jpg 96,38,626,674,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0006303f02219b07.jpg 0,0,1023,679,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00074503ceae5131.jpg 0,185,1023,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0008cf211699d6a5.jpg 0,4,702,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00092fa0c421c8c0.jpg 0,0,933,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0009450a8ed12bd4.jpg 401,333,476,485,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00096d55fb575b59.jpg 186,267,525,681,0 436,311,786,662,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\000a3f4144bf73ba.jpg 80,143,983,741,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\000acf666d991c39.jpg 182,316,767,685,0 460,26,1023,685,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\000b97d7af0977eb.jpg 354,164,727,529,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\000be7f100f1f8ef.jpg 62,166,769,767,0 133,0,952,184,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\000c01d8269e1554.jpg 246,442,428,828,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\000f24d363c4b66c.jpg 209,4,543,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00100fe58a324932.jpg 285,218,851,766,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00126bd470298515.jpg 99,0,773,677,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0012d875044bfa35.jpg 295,40,790,492,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0012f1c145573ce2.jpg 391,523,591,997,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0013ae186a0c98c8.jpg 142,440,561,822,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0013bf1bf2cdd4fe.jpg 759,248,990,650,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0014169878a84bd5.jpg 61,216,910,570,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0014968c722c4bbf.jpg 330,211,693,681,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0016285d687bf97a.jpg 0,139,341,963,0 406,284,679,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00164b0a643be85b.jpg 459,258,550,349,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00168ee88d966565.jpg 331,433,414,581,0 508,470,583,586,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0016a719395bc945.jpg 389,24,1023,680,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0016cb8f06d33168.jpg 29,550,371,803,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0016fd49ab8c05b2.jpg 492,60,782,211,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00176417fa2020e7.jpg 0,64,600,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001799237d3ed58e.jpg 52,123,902,487,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00179dab1251271b.jpg 468,0,1023,677,0 565,180,1023,579,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0018a7c115fa7a5b.jpg 268,404,480,595,0 323,235,640,437,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001a23c9dd973787.jpg 30,94,557,589,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001a64b9a9259f3e.jpg 243,428,605,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001aa1409442a07c.jpg 115,0,877,767,0 319,0,390,89,0 662,0,1023,445,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001be2342180e406.jpg 180,31,985,594,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001db4ea37f9c8b3.jpg 0,217,609,743,0 591,47,1023,778,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001e0b7c387bdd06.jpg 12,20,720,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001e39ef5ce27e0a.jpg 237,224,487,464,0 488,250,769,471,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001ecac90c6f4457.jpg 310,387,728,670,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001ed4dc220ca57f.jpg 99,35,504,355,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001f2aaae28c1b91.jpg 199,359,682,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0020c297db8672b8.jpg 120,179,867,692,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002372bac1d511fe.jpg 340,125,758,758,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00251c7d87cd86fa.jpg 19,171,800,640,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00267e0c8e2eb09a.jpg 168,0,1023,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0029a9c8dbbd3dc6.jpg 97,246,654,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002a0f6de8e747ac.jpg 0,276,314,682,0 276,179,907,597,0 398,17,1020,265,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002b020146637617.jpg 36,0,860,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002b487e4c1d73e3.jpg 401,274,564,589,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002b63d74a583bc3.jpg 403,188,888,604,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002c40dad7c01284.jpg 124,248,518,685,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002e48331764d741.jpg 0,9,1022,719,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002f30e3c5df9681.jpg 47,160,625,576,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002fbe5010085186.jpg 12,196,338,604,0 70,921,180,977,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\003252d71382a0ca.jpg 479,119,883,513,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0033a64b441d35ac.jpg 754,512,842,568,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00341202d021b919.jpg 0,258,682,1022,0 0,494,503,721,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0034f46ea01f7241.jpg 213,180,817,766,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00355dd0119cd815.jpg 372,119,640,328,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0035e0f6a0c29bee.jpg 93,102,988,816,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0036a0a3d596e1f8.jpg 173,179,634,581,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\003787b0f1e51755.jpg 336,0,719,435,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0037e5e51191594f.jpg 216,320,608,570,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0037f7d1bf4ef15f.jpg 65,93,694,694,0 687,72,954,655,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00382c1ca4de920a.jpg 58,138,559,612,0 269,16,932,521,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00388f0c673fe106.jpg 0,0,664,728,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0038f72cb1023287.jpg 426,338,783,596,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\003a1221981aa26b.jpg 312,71,950,580,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\003b96537d3fa059.jpg 122,422,322,883,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\003c40e8e6ec88bf.jpg 65,173,849,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\003e197b0cdd8277.jpg 222,0,634,248,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\003f09a845bd1f65.jpg 428,475,812,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\004016ec8e16a656.jpg 0,125,324,682,0 308,134,612,682,0 632,129,957,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00402f72d5418848.jpg 143,120,731,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00411797643d8b96.jpg 29,165,397,596,0 346,65,584,550,0 510,192,724,535,0 685,195,1004,562,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00416738ec183318.jpg 136,31,719,538,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00419eeae705466c.jpg 0,269,102,490,0 394,164,484,264,0 483,237,656,662,0 518,182,595,267,0 662,161,745,249,0 710,159,836,256,0 792,150,850,242,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0042a10234c156fb.jpg 181,100,725,757,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0043958d9c61c33a.jpg 350,513,439,669,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0044bd9f234a09df.jpg 83,0,649,795,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00456887ba702f5d.jpg 101,153,572,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0045dd96bf73936c.jpg 339,219,716,597,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0046082265c2139c.jpg 166,120,756,537,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0000b9fcba019d36.jpg 169,206,925,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0000cb13febe0138.jpg 0,0,668,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\000256419f7c57d8.jpg 195,407,308,499,0 461,373,576,460,0 572,396,630,455,0 700,381,728,447,0 735,367,768,424,0 824,365,866,488,0 867,371,891,438,0 913,372,999,444,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0005a9520eb22c19.jpg 96,38,626,674,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0006303f02219b07.jpg 0,0,1023,679,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00074503ceae5131.jpg 0,185,1023,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0008cf211699d6a5.jpg 0,4,702,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00092fa0c421c8c0.jpg 0,0,933,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0009450a8ed12bd4.jpg 401,333,476,485,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00096d55fb575b59.jpg 186,267,525,681,0 436,311,786,662,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\000a3f4144bf73ba.jpg 80,143,983,741,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\000acf666d991c39.jpg 182,316,767,685,0 460,26,1023,685,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\000b97d7af0977eb.jpg 354,164,727,529,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\000be7f100f1f8ef.jpg 62,166,769,767,0 133,0,952,184,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\000c01d8269e1554.jpg 246,442,428,828,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\000f24d363c4b66c.jpg 209,4,543,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00100fe58a324932.jpg 285,218,851,766,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00126bd470298515.jpg 99,0,773,677,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0012d875044bfa35.jpg 295,40,790,492,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0012f1c145573ce2.jpg 391,523,591,997,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0013ae186a0c98c8.jpg 142,440,561,822,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0013bf1bf2cdd4fe.jpg 759,248,990,650,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0014169878a84bd5.jpg 61,216,910,570,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0014968c722c4bbf.jpg 330,211,693,681,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0016285d687bf97a.jpg 0,139,341,963,0 406,284,679,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00164b0a643be85b.jpg 459,258,550,349,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00168ee88d966565.jpg 331,433,414,581,0 508,470,583,586,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0016a719395bc945.jpg 389,24,1023,680,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0016cb8f06d33168.jpg 29,550,371,803,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0016fd49ab8c05b2.jpg 492,60,782,211,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00176417fa2020e7.jpg 0,64,600,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001799237d3ed58e.jpg 52,123,902,487,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00179dab1251271b.jpg 468,0,1023,677,0 565,180,1023,579,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0018a7c115fa7a5b.jpg 268,404,480,595,0 323,235,640,437,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001a23c9dd973787.jpg 30,94,557,589,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001a64b9a9259f3e.jpg 243,428,605,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001aa1409442a07c.jpg 115,0,877,767,0 319,0,390,89,0 662,0,1023,445,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001be2342180e406.jpg 180,31,985,594,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001db4ea37f9c8b3.jpg 0,217,609,743,0 591,47,1023,778,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001e0b7c387bdd06.jpg 12,20,720,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001e39ef5ce27e0a.jpg 237,224,487,464,0 488,250,769,471,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001ecac90c6f4457.jpg 310,387,728,670,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001ed4dc220ca57f.jpg 99,35,504,355,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\001f2aaae28c1b91.jpg 199,359,682,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0020c297db8672b8.jpg 120,179,867,692,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002372bac1d511fe.jpg 340,125,758,758,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00251c7d87cd86fa.jpg 19,171,800,640,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00267e0c8e2eb09a.jpg 168,0,1023,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0029a9c8dbbd3dc6.jpg 97,246,654,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002a0f6de8e747ac.jpg 0,276,314,682,0 276,179,907,597,0 398,17,1020,265,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002b020146637617.jpg 36,0,860,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002b487e4c1d73e3.jpg 401,274,564,589,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002b63d74a583bc3.jpg 403,188,888,604,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002c40dad7c01284.jpg 124,248,518,685,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002e48331764d741.jpg 0,9,1022,719,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002f30e3c5df9681.jpg 47,160,625,576,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\002fbe5010085186.jpg 12,196,338,604,0 70,921,180,977,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\003252d71382a0ca.jpg 479,119,883,513,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0033a64b441d35ac.jpg 754,512,842,568,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00341202d021b919.jpg 0,258,682,1022,0 0,494,503,721,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0034f46ea01f7241.jpg 213,180,817,766,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00355dd0119cd815.jpg 372,119,640,328,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0035e0f6a0c29bee.jpg 93,102,988,816,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0036a0a3d596e1f8.jpg 173,179,634,581,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\003787b0f1e51755.jpg 336,0,719,435,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0037e5e51191594f.jpg 216,320,608,570,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0037f7d1bf4ef15f.jpg 65,93,694,694,0 687,72,954,655,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00382c1ca4de920a.jpg 58,138,559,612,0 269,16,932,521,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00388f0c673fe106.jpg 0,0,664,728,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0038f72cb1023287.jpg 426,338,783,596,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\003a1221981aa26b.jpg 312,71,950,580,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\003b96537d3fa059.jpg 122,422,322,883,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\003c40e8e6ec88bf.jpg 65,173,849,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\003e197b0cdd8277.jpg 222,0,634,248,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\003f09a845bd1f65.jpg 428,475,812,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\004016ec8e16a656.jpg 0,125,324,682,0 308,134,612,682,0 632,129,957,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00402f72d5418848.jpg 143,120,731,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00411797643d8b96.jpg 29,165,397,596,0 346,65,584,550,0 510,192,724,535,0 685,195,1004,562,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00416738ec183318.jpg 136,31,719,538,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00419eeae705466c.jpg 0,269,102,490,0 394,164,484,264,0 483,237,656,662,0 518,182,595,267,0 662,161,745,249,0 710,159,836,256,0 792,150,850,242,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0042a10234c156fb.jpg 181,100,725,757,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0043958d9c61c33a.jpg 350,513,439,669,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0044bd9f234a09df.jpg 83,0,649,795,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00456887ba702f5d.jpg 101,153,572,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0045dd96bf73936c.jpg 339,219,716,597,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0046082265c2139c.jpg 166,120,756,537,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0046b41cb4833f46.jpg 218,91,1023,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0047ab61e0adf9a0.jpg 300,61,1023,681,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0048e5088d65f04e.jpg 71,197,640,614,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\004988db26d6232b.jpg 32,156,1023,961,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0049fef27fa2a149.jpg 72,50,297,429,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\004a344c48d93110.jpg 0,156,507,937,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\004a941da2b47e0a.jpg 232,6,780,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\004b8c528ce16be4.jpg 409,147,810,542,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\004c4ae05a363ccf.jpg 607,276,852,695,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\004ccb5669b648ab.jpg 419,373,529,496,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\004cff696cdad62d.jpg 291,30,794,738,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\004d9a6bb834b10a.jpg 25,177,671,987,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\004e43243709ea00.jpg 197,414,272,555,0 562,414,632,557,0 720,367,863,578,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\004e7fcdd69e931a.jpg 34,433,451,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\004f138ad0d084ae.jpg 214,279,359,440,0 254,621,290,670,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00515e0f9f9eb2d7.jpg 42,0,1023,673,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0053ca1211f0e2e4.jpg 302,467,627,647,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0053d29a7c0a2938.jpg 410,74,847,684,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0053d6e88f36b7b3.jpg 96,308,414,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\005504c7796ae1fe.jpg 205,80,728,842,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\005618f36de854ce.jpg 0,402,1023,917,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0056a237a203c83c.jpg 62,28,836,691,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0056a3b074480530.jpg 2,0,888,945,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00576f35d4bb3d62.jpg 196,0,1023,685,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0057cac2d33e6470.jpg 79,340,212,449,0 189,263,425,448,0 518,322,652,446,0 631,261,859,448,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\005875ddc6af31f4.jpg 51,231,678,925,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\005970d29c7a4adb.jpg 224,71,630,650,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0059a8de9a1a7c52.jpg 16,220,434,991,0 700,393,903,689,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\005c60e8a0c6465c.jpg 0,197,282,675,0 219,117,916,613,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\005d4a1ec6d9af26.jpg 203,92,809,968,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\005d84edc1ceb560.jpg 52,24,581,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\005e12ca5fa6e886.jpg 392,200,801,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\005e1e38ce277f78.jpg 380,0,819,456,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\005f385bb1c20a1d.jpg 129,526,238,726,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\005fa4a45c75b075.jpg 691,271,840,544,0 147,271,834,594,0 884,402,956,510,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0060b2fad4ef55d1.jpg 149,122,744,700,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00614840c3e3896c.jpg 0,412,147,648,0 323,451,471,670,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00627b414a83375e.jpg 153,66,847,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\006306e1d7e4399b.jpg 542,212,737,439,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00630c9c23991286.jpg 159,22,668,749,0 493,315,1023,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00634c7f6bbe7574.jpg 108,373,268,456,0 624,268,764,454,0 767,288,942,454,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0063dd98ce4d4596.jpg 8,53,780,545,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\006487b7dbf9fc7a.jpg 204,133,310,386,0 259,192,455,543,0 643,314,712,353,0 714,31,981,511,0 775,307,845,366,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0064cdb508a53429.jpg 0,223,381,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0065be62d4066581.jpg 81,155,901,660,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\006635d01cd01646.jpg 402,221,623,484,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0068fa168a05500a.jpg 235,0,682,723,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0069b1a3a4c53343.jpg 155,446,643,1022,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0069cfa2d7a619e0.jpg 0,142,541,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0069e114bc08d71a.jpg 390,229,670,629,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\006a55437e658634.jpg 53,193,861,680,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\006b27554ee38194.jpg 18,240,332,577,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\006c5cfc9c7ad28f.jpg 208,422,493,728,0 519,318,996,552,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\006c775b03289f67.jpg 253,0,764,684,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\006caf3ab4d3fd5d.jpg 418,326,779,655,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\006d748ce853c100.jpg 14,329,413,1022,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\006e624896978f3f.jpg 0,0,754,684,0 307,179,1023,684,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\006f475cab1d9b8a.jpg 25,288,289,536,0 105,328,370,554,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\006fc9bf8cc5bb72.jpg 106,0,845,575,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\007047276a2e9be1.jpg 295,52,772,624,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0070af0409677211.jpg 191,368,471,767,0 405,29,705,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\007117f88c62282e.jpg 450,47,683,730,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00711a2c1d8a60c8.jpg 257,259,724,448,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0073232615f20d8d.jpg 416,157,792,680,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\007403de8b96f53b.jpg 0,202,788,578,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00756f1aa0ed60fa.jpg 387,332,483,478,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0075dbddf4ec1bae.jpg 463,309,608,444,0 661,233,700,309,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0075f60f50ba3a79.jpg 413,193,845,431,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\007766418c3786f3.jpg 0,0,1023,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00785bd8accf7c05.jpg 124,265,621,952,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0078ef2ef23cbc02.jpg 0,0,1000,953,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0079b0814c745354.jpg 348,0,748,687,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\007ab59b9606a05e.jpg 227,129,649,620,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\007adedc7e7e35c0.jpg 314,0,977,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\007c6f84d437a45b.jpg 102,20,947,561,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\007e27e3b0ab0ec8.jpg 267,271,944,663,0 572,86,1023,387,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\007e4c3cd3485105.jpg 310,73,677,568,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\007eddaa9f8a7af6.jpg 0,166,334,673,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\008076858a21069c.jpg 18,62,885,996,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0080979afb88dcbe.jpg 0,270,616,889,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0080dd1437e74362.jpg 236,0,680,767,0 760,222,854,298,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00814316dbbc3605.jpg 88,206,518,404,0 580,286,911,504,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00818d48bbc54a0b.jpg 0,160,666,1021,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0082eeb5795471a4.jpg 0,0,918,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0083236af2eb8c09.jpg 88,308,358,647,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00834a3d8dcd1608.jpg 0,35,1022,1022,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0083c6f2f5452435.jpg 48,114,500,388,0 383,118,870,461,0 454,320,933,643,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0085501a2db0d7e3.jpg 0,0,307,765,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0085696f16a29598.jpg 97,129,1014,627,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\008671b11cf951d6.jpg 477,430,767,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0086f0c90965990c.jpg 237,148,668,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\008882211cbff4a7.jpg 67,72,820,870,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\008a3788f531b8b7.jpg 55,193,695,743,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\008b5845b8d7eea5.jpg 59,120,116,133,0 180,229,220,267,0 184,217,227,266,0 257,227,308,275,0 264,234,303,272,0 328,246,360,279,0 341,238,391,282,0 349,254,379,286,0 421,253,475,291,0 446,245,504,288,0 526,258,582,302,0 534,249,602,297,0 623,255,686,317,0 653,259,686,311,0 654,258,680,274,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\008b80b929961d67.jpg 420,232,732,478,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\008c656d32551720.jpg 0,136,547,613,0 509,136,1007,672,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\008d6a14dbda239e.jpg 0,42,1023,831,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\008e3f5bd68e04f2.jpg 261,111,862,646,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\008e7c34b86f6d56.jpg 229,402,489,632,0 286,32,736,598,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\008ef9fd34923181.jpg 408,276,608,696,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\008f4d4f3d20996b.jpg 254,199,593,531,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\008fc733e99562cb.jpg 42,255,916,580,0 920,250,1023,401,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\008fe0364b4273c5.jpg 85,58,465,712,0 307,97,916,630,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00903eebede2fcb5.jpg 41,400,120,488,0 164,395,619,507,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0090e67dc4ba1b2c.jpg 91,68,778,766,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00910414f88187fd.jpg 204,96,893,611,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0092a3d573ca4cd3.jpg 467,313,707,609,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00934904547ee267.jpg 312,17,753,587,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\009471f2ffbe677c.jpg 165,86,879,1022,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00947b0e14125f44.jpg 166,0,859,597,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\009486489140eea2.jpg 92,418,517,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0094cd0da622ad49.jpg 275,264,766,1022,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0094d2cb053e4506.jpg 273,511,522,648,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00953d1a685de205.jpg 113,0,235,69,0 162,0,753,767,0 580,0,1023,278,0 691,241,1023,767,0 746,43,1023,566,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00957482003e4198.jpg 292,233,870,736,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0095ad707510a828.jpg 291,184,806,487,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00963ebe1f3676ac.jpg 440,45,619,201,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\009685dd60cb5a98.jpg 0,107,366,681,0 364,189,1023,681,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\009719005789f719.jpg 0,553,380,767,0 159,236,480,611,0 556,195,890,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00975d102fff06d1.jpg 237,153,491,553,0 530,259,856,611,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\009768b93c31d499.jpg 83,196,818,945,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00995eb67d2ee4b7.jpg 499,592,987,987,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\009a90905ddcd7c7.jpg 277,53,632,656,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\009b71cc4fd38230.jpg 135,286,944,894,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\009bbbb462ec9577.jpg 290,352,477,641,0 294,396,378,492,0 675,412,766,502,0 728,345,891,629,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\009be6f37929b268.jpg 230,311,789,680,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\009c0c51f17e19c1.jpg 0,8,1021,835,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\009c5979794f4a2f.jpg 222,151,763,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\009d5f276bbcc897.jpg 195,467,307,562,0 450,533,533,611,0 536,541,618,627,0 790,605,901,742,0 843,354,970,517,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\009eebcdf1a0f58f.jpg 126,62,598,975,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\009f2142e04d4734.jpg 172,0,1023,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a0783978d22ba9.jpg 219,573,490,728,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a1ab47b5439e8c.jpg 682,338,908,477,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a21b2733e3c043.jpg 399,22,1023,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a25bf311ed49fc.jpg 100,29,1008,824,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a3ba6b80ddd875.jpg 299,211,560,522,0 976,58,1023,161,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a411d3a89a8c59.jpg 171,138,396,554,0 376,146,533,533,0 647,220,838,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a4e010d37dadcd.jpg 130,0,768,768,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a5c33c3340d3fc.jpg 253,152,692,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a5d3781031c11b.jpg 184,239,765,879,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a6039e0bfeea9a.jpg 135,180,838,646,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a6655546c4e9af.jpg 182,76,639,917,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a8974810aeb6b1.jpg 200,148,765,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a8b82f9944ae6c.jpg 227,44,1023,680,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a953f86e4155b0.jpg 409,303,640,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00a9de4ad27bf0a9.jpg 194,600,537,873,0 292,570,409,841,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00aa0ca8c7a16310.jpg 198,85,916,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00abee7bfcf42e61.jpg 377,175,1023,575,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00ada2ab88dbedc7.jpg 35,106,829,618,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00ae128c0c85b09f.jpg 544,194,1023,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00ae6efec51b9be3.jpg 0,471,413,975,0 3,223,470,648,0 365,232,682,824,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00b002a84d61d536.jpg 0,330,730,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00b0c3087eff05f0.jpg 41,1,964,549,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00b15163fb26916c.jpg 261,203,584,570,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00b1a2490b8c0930.jpg 45,575,605,921,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00b1a8b1563a2ed1.jpg 3,168,598,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00b20c960e6e82c2.jpg 287,165,764,669,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00b2fa8f6d0143aa.jpg 48,22,236,318,0 236,104,614,658,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00b3319ef282a655.jpg 422,588,751,937,0 475,318,727,426,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00b3eeaab634404f.jpg 99,0,1023,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00b596a9edd67acf.jpg 60,147,460,664,0 378,176,1023,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00b7d789c4735e07.jpg 117,355,677,863,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00b7df554f290d2a.jpg 166,292,296,393,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00b8f86ac43840fd.jpg 237,146,848,376,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00b94e1e21999892.jpg 408,306,615,681,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00bb3c399906cd91.jpg 252,392,401,567,0 755,445,855,584,0 846,427,967,604,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00bb938225f875d4.jpg 0,0,1022,766,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00bc56e80ac7b49e.jpg 6,0,690,679,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00bc5d96375f2f71.jpg 655,330,820,502,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00bc9f14db31c418.jpg 269,0,1023,572,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00bd3f67d6e5d850.jpg 210,580,279,691,0 318,505,605,675,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00bd7d8728410077.jpg 81,648,550,994,0 350,207,552,333,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00bfc2107be735f8.jpg 131,295,493,452,0 616,288,959,543,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00c1323bb33c5b07.jpg 400,316,671,707,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00c227354a96b5ae.jpg 108,141,845,500,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00c284fecdb48bdf.jpg 0,161,525,554,0 506,204,740,361,0 509,217,963,428,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00c317e49f3f7994.jpg 348,0,965,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00c380192e7eb820.jpg 231,630,616,870,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00c456a12d2c0d63.jpg 193,200,925,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00c49d30f5689d71.jpg 0,574,388,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00c4c615d3beb1fb.jpg 207,283,659,708,0 476,58,1023,736,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00c8082e31e2f0e8.jpg 394,0,701,484,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00c8b9df417e0269.jpg 164,123,941,538,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00c8be6b860f574f.jpg 382,407,632,621,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00c94091e1504341.jpg 362,148,604,490,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00cb52afe8b6781b.jpg 220,120,812,504,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00ccf711569009dd.jpg 232,473,444,682,0 550,193,657,252,0 662,226,738,294,0 678,202,732,261,0 688,184,737,239,0 850,227,929,297,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00cdba6e89dc728e.jpg 450,230,880,642,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00cf1b0d0f4d6f7a.jpg 0,0,1023,767,0 181,0,291,70,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00d09c8cc2ef41d6.jpg 186,330,329,735,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00d123043dd2709e.jpg 0,207,607,1022,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00d30463d810901f.jpg 49,143,419,593,0 148,114,573,434,0 561,233,935,607,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00d3ede4afa2a516.jpg 0,0,968,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00d5eb460eab4613.jpg 357,443,742,867,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00d6362f8f4a0280.jpg 157,522,460,811,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00d72b058909c663.jpg 110,461,317,784,0 397,819,682,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00d75e217b0b6a3c.jpg 0,93,1022,848,0 0,93,1022,850,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00d893f2ad686f65.jpg 0,474,403,1022,0 462,388,624,736,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00d93c811a376188.jpg 731,58,1023,549,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00d9b19d3f4d9485.jpg 255,490,458,682,0 568,391,848,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00d9b6154afed374.jpg 86,0,1023,677,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00d9daa325a78faf.jpg 44,103,912,607,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00da81c3daddcac9.jpg 168,254,1022,593,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00db278f9e2dc727.jpg 309,423,562,818,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00dd0a5f3c16fdf5.jpg 212,111,703,693,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00dd76913fe509f1.jpg 174,96,483,452,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00dd9f68529e5ef8.jpg 0,0,881,1013,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00df15124449bfd2.jpg 192,63,542,996,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00dfb15c470ad7ef.jpg 233,263,763,970,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00dfbe9fe376ea0f.jpg 217,169,410,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e02103383f2974.jpg 600,454,820,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e0d869b500a9c4.jpg 162,84,805,388,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e0fcae3531d26c.jpg 0,184,776,684,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e105ea2d26fa04.jpg 470,592,616,749,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e1ff25fc2a7216.jpg 8,16,630,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e3adb39d0db247.jpg 375,226,661,626,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e49d11aa6c9b6f.jpg 323,274,707,753,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e4d41ec48a1d17.jpg 69,30,946,763,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e562cffbee0e0d.jpg 165,70,835,810,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e592189bfb5473.jpg 0,0,901,680,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e71f3e8b388733.jpg 193,2,728,564,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e74cc9c45145e5.jpg 439,457,552,641,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e857028dea80d7.jpg 375,51,998,660,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e894a7926da616.jpg 80,98,830,627,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e960551d34aff8.jpg 374,220,675,590,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00e9a45ad9c18f1b.jpg 0,0,908,720,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00eae30351e73125.jpg 0,239,403,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00ebe6d84a34a43e.jpg 76,193,378,657,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00edcb1c0670f45d.jpg 278,179,588,624,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00ee1ed0135a0cf4.jpg 468,363,763,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00f45f90bc0a213a.jpg 113,21,588,673,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00f54805e4b0be67.jpg 117,40,552,481,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00f587345133b430.jpg 213,28,746,678,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00f6752ba73a31ee.jpg 0,0,767,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00f6761cbc7e69da.jpg 0,349,625,739,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00f78ded346d4d52.jpg 199,132,470,579,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00f7d2bd4a88776e.jpg 75,293,507,678,0 446,20,885,678,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00f7f7cb6aa899f1.jpg 178,677,629,939,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00f8f05f47e76a56.jpg 72,203,829,744,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00fac52924506248.jpg 705,457,898,631,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00fc623eea911da2.jpg 0,0,1022,1022,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00fca018266ace5b.jpg 488,302,689,391,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00fcb869b694ae8e.jpg 0,550,77,634,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00fd134a60426181.jpg 294,196,633,669,0 321,409,428,564,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00fd9324ec7e3449.jpg 328,82,687,610,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00fdf6827081c750.jpg 160,514,668,956,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\00fed6635b459a02.jpg 37,271,396,474,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01004b855fd7be33.jpg 37,250,467,907,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0100f4a83af8c405.jpg 419,156,788,749,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0101754031adf17e.jpg 335,174,558,683,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01019258a963ad91.jpg 0,0,970,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01019a310cce43e9.jpg 199,566,631,995,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01019a9362cd16d9.jpg 38,376,490,813,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01021515c433c0a5.jpg 362,176,598,464,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0104ed24ce594848.jpg 47,4,811,983,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\010655bf9bb2190a.jpg 47,0,965,542,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0106fcd08df1f179.jpg 239,421,447,628,0 560,348,780,497,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0107e5ab668e13ae.jpg 140,29,594,656,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01096570bcf871f1.jpg 136,113,867,617,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0109db3827301d30.jpg 91,35,821,520,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\010b33204cb58241.jpg 707,309,918,627,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\010b3f6dc1ec76c0.jpg 4,94,682,1005,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\010b7afc404408f9.jpg 79,241,855,644,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\010bfa034b18e6d6.jpg 88,188,1023,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\010c204e1162c640.jpg 26,115,984,634,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\010fb8018f87530e.jpg 123,321,974,585,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\010fd9ecb945d94d.jpg 302,264,731,923,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\011025a54919758c.jpg 140,721,410,910,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\011072e8c268cb5e.jpg 42,475,188,637,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0111926f53db2f0c.jpg 0,0,1023,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0115a6c465d8f121.jpg 565,233,1023,593,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\011925eb3fab73c9.jpg 76,226,561,451,0 570,0,1021,631,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\011bf9a20e790835.jpg 633,325,773,525,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\011c2a689a8fdd8c.jpg 77,110,1022,1022,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\011d28d03d44cd72.jpg 0,381,112,464,0 67,277,109,338,0 747,720,1022,1022,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\011f68c8ad1524f8.jpg 536,376,1022,694,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\011fb4203a8dbe35.jpg 296,659,402,719,0 628,658,733,714,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\012044436d7fc552.jpg 150,685,334,982,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0121b96813b0bbc0.jpg 397,401,948,631,0 401,401,954,630,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0121e5850629d299.jpg 144,17,519,639,0 582,124,915,623,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01228eb7ac518357.jpg 471,362,644,642,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0122c779121de8a2.jpg 480,186,771,733,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01238a3e24f389ec.jpg 222,318,471,800,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0124dcf5127b807f.jpg 249,372,621,767,0 604,372,967,710,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0128e010fcca219d.jpg 0,286,930,585,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\012b0392811f8db6.jpg 84,357,604,550,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\012bc92499fdf589.jpg 354,299,892,529,0 356,353,520,513,0 416,299,545,515,0 516,347,696,536,0 536,150,627,245,0 601,204,769,330,0 643,381,772,498,0 721,308,890,525,0 817,436,917,491,0 854,190,1023,345,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\012c9a700925f1e8.jpg 358,68,745,722,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\012d5cae1c6f2d74.jpg 493,387,653,715,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\012fc5c316f6e417.jpg 85,392,1022,1022,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01300e1cf087e408.jpg 0,0,351,367,0 307,2,632,352,0 617,37,1016,363,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0132188c1681fcd3.jpg 798,476,957,587,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\013380cd70e78c69.jpg 0,0,785,740,0 914,0,1023,284,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0136078b2bded042.jpg 79,293,600,1000,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0136da024c39afb5.jpg 87,464,212,528,0 96,453,191,517,0 292,446,408,521,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0137f4424c323cbd.jpg 0,81,974,641,0 391,339,997,639,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\013805bab5a92dd5.jpg 357,629,766,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01394a8edf203b78.jpg 90,250,604,498,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01394ce6e4db8b72.jpg 0,333,1023,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\013a90d7c746cef4.jpg 352,262,384,312,0 442,198,567,492,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\013b4000f5cca987.jpg 5,848,112,974,0 15,237,169,407,0 49,7,192,167,0 49,615,199,813,0 56,433,192,559,0 105,827,205,1023,0 199,817,406,1021,0 205,2,373,167,0 210,614,408,813,0 231,211,376,379,0 236,418,387,601,0 402,445,604,614,0 408,819,616,978,0 415,242,616,371,0 418,649,555,815,0 434,21,595,183,0 489,680,609,813,0 506,422,616,559,0 614,902,817,985,0 618,458,817,594,0 635,29,817,202,0 651,426,751,507,0 674,655,804,778,0 823,209,1023,407,0 839,482,1007,591,0 845,426,933,515,0 853,9,987,200,0 867,618,1023,820,0 978,941,1017,990,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\013b407594010db6.jpg 387,156,707,559,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\014065a49cc7af79.jpg 72,282,711,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0140764c86ab44b5.jpg 157,367,254,592,0 164,272,552,569,0 255,455,629,677,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0141276a11ec6561.jpg 159,0,998,518,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0142a8f6ee267bdf.jpg 75,147,476,941,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0143c65560790eec.jpg 463,332,628,531,0 643,255,699,348,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0147766de426c652.jpg 298,132,530,552,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0148b490f2121a17.jpg 51,315,220,437,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0149d6fdb5a98a5e.jpg 103,130,568,1006,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0149e8a8b8daff8a.jpg 0,280,1023,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\014b328456b6e65e.jpg 110,189,405,637,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\014b8b9394353363.jpg 334,84,1023,330,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\014cdf1bc2b8ca42.jpg 144,336,324,513,0 308,326,397,480,0 375,331,505,446,0 470,338,504,427,0 525,352,754,645,0 595,241,945,459,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\014d42d86cb091d8.jpg 612,453,886,684,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01502d8690650f02.jpg 333,265,684,585,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\015177f2c3007a7d.jpg 317,422,532,640,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0152be45662f0d9e.jpg 159,129,982,583,0 525,166,1023,326,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\015367cdded670f1.jpg 365,57,908,452,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0153d8aca472bfb7.jpg 144,338,434,620,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01546c53a9d6e90b.jpg 291,92,772,767,0 389,379,398,400,0 408,355,430,404,0 610,363,662,415,0 652,390,689,449,0 764,383,790,450,0 848,371,895,435,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01595c953893f4e0.jpg 295,772,481,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\015aaecaa52dd706.jpg 386,418,590,616,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\015cd603f83a292b.jpg 71,188,624,865,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\016024e9ba2ad3f4.jpg 162,12,1023,678,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0161b9f72b349b95.jpg 260,184,829,335,0 265,360,579,603,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0164408780e8a352.jpg 235,207,878,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01652966e717a825.jpg 321,33,950,620,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0165dbd02437a856.jpg 135,587,540,965,0 409,371,595,674,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0165e34f0b1e2e2d.jpg 56,43,745,611,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\016864c7203d7788.jpg 606,287,681,354,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01689144448deb1b.jpg 179,356,534,756,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\016989122d5a6230.jpg 0,333,303,678,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\016b2ad055b4e88d.jpg 0,347,448,808,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\016b9735eeb8c3d0.jpg 36,0,1023,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\016c76f9a2da0fc1.jpg 328,520,555,721,0 372,484,586,719,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\016d8f6510e6270e.jpg 344,150,695,582,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\016f5778cef7f418.jpg 205,301,267,352,0 206,433,371,571,0 844,277,878,334,0 890,189,943,271,0 967,424,1023,508,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0170153b10f69ea8.jpg 328,474,547,893,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\017015eaf820528d.jpg 184,12,853,998,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0171da7bddc5babd.jpg 511,534,601,706,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01734e923f3a5aa3.jpg 338,170,630,465,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0174e51585121475.jpg 169,73,785,690,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01750631a3769afb.jpg 168,72,758,766,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01770b7b6f91584b.jpg 0,295,292,528,0 554,272,722,523,0 728,227,993,477,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0178395a5d72ab9c.jpg 35,356,380,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0178ff58ad40ee21.jpg 504,364,896,566,0 507,452,608,544,0 578,406,657,548,0 655,363,761,559,0 727,424,893,562,0 732,363,847,534,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0179cfcf3720f848.jpg 292,175,716,739,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\017cc3650998e13c.jpg 148,347,269,427,0 165,276,202,323,0 243,292,288,340,0 282,297,371,348,0 445,296,508,339,0 495,286,548,336,0 635,261,705,317,0 735,286,785,331,0 970,266,1020,321,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\017e240132fe8ae9.jpg 106,575,252,779,0 188,416,399,593,0 239,758,415,1020,0 266,508,537,873,0 328,525,642,699,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01837594a31df162.jpg 74,0,965,1022,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0186f98516dbe935.jpg 0,147,481,723,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0187586070a009b7.jpg 0,346,163,507,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\018919871e9ea4a3.jpg 26,225,1023,672,0 33,213,1023,700,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0189aade1e6705f0.jpg 31,129,998,721,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\018b6c50182abf2b.jpg 110,764,288,993,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\018c6cd27e4deb80.jpg 0,195,864,766,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\018cf8d386e6d6ee.jpg 136,121,598,508,0 557,184,956,519,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\018f338e7eb0eb35.jpg 245,422,524,735,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0190e3d28394541a.jpg 53,0,1023,648,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0190fc886a80f3d7.jpg 0,325,487,556,0 0,514,690,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0190fccdb83944da.jpg 0,169,940,888,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01914df4f981fd8c.jpg 0,191,682,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0193c321eff0efb2.jpg 160,359,392,536,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0194bde5616183b0.jpg 210,15,876,975,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\019589feb5770a75.jpg 277,278,432,433,0 486,275,626,425,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\019655a21a65386c.jpg 0,0,830,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0196aaed6a473d16.jpg 367,93,554,610,0 378,596,433,662,0 422,639,563,780,0 560,165,602,230,0 681,70,777,225,0 715,575,832,765,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0198ace346e5ca0c.jpg 62,42,927,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\0199e53c3bc58d40.jpg 0,0,950,679,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\019aa49c9e640e2a.jpg 13,44,946,502,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\019ae01255db3333.jpg 122,294,520,706,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\019c8ee235d7df85.jpg 168,186,649,705,0 602,232,836,632,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\019cd7cfd8dcf4e4.jpg 146,18,1022,856,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\019e4d11bdce18a0.jpg 530,111,624,356,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01a02e52df8c2815.jpg 636,409,929,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01a25802c13f6a39.jpg 95,552,334,643,0 620,518,897,677,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01a3ef09d9eda6c5.jpg 141,438,298,518,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01a4d117dfbb9953.jpg 331,40,663,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01aa54a2b4a882a9.jpg 625,198,972,577,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01ae8830c259bddb.jpg 122,126,655,606,0 627,486,1023,837,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01b03fc9f669b4d2.jpg 63,276,379,509,0 340,187,781,546,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01b2e1121d27cf44.jpg 19,123,1023,753,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01b314865ff3917e.jpg 552,49,982,732,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01b43c1f25d150b4.jpg 81,49,1023,765,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01b65441f8aecd34.jpg 91,21,566,682,0 592,30,1020,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01b6d98acadc16d7.jpg 287,425,753,655,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01ba19b3a1f0b059.jpg 147,556,392,708,0 333,902,959,1022,0 479,35,1022,1022,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01ba48e25bd54dc7.jpg 404,404,736,684,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01baae2311e733a3.jpg 128,199,610,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01bc286f34823d61.jpg 82,133,991,621,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01bcee83bc7f9eaf.jpg 566,550,905,763,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01bf26d622c796fa.jpg 517,475,910,990,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01bfb49944567c7e.jpg 21,848,239,972,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01c27287f58c4a5e.jpg 632,357,941,534,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01c36efce3c320e1.jpg 163,423,318,642,0 536,365,877,520,0 743,222,917,312,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01c720d381441f0c.jpg 273,16,770,527,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01c7b137fd41cb67.jpg 0,174,177,414,0 199,193,780,506,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01c7ecddc932e281.jpg 0,64,1022,1022,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01c82e863c30dafd.jpg 61,58,280,516,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01c981e9e7b72fde.jpg 768,639,854,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01ca9b887129fe02.jpg 366,305,496,479,0 451,306,573,400,0 497,290,659,473,0 713,297,771,450,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01cb62699f233aed.jpg 363,257,746,470,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01ce6a039ecd2c7b.jpg 442,254,655,655,0 838,16,1023,261,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01cec751fbff1d79.jpg 146,242,520,413,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01cf355ee6773e0e.jpg 58,373,563,756,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01d120c033cbf4c2.jpg 675,406,837,521,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01d2f3e47c6caa3b.jpg 472,114,520,208,0 500,109,561,227,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01d3902cc1ad5038.jpg 284,331,1002,543,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01da139067ecd3ba.jpg 309,0,901,682,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01ddda985c59ba30.jpg 141,304,577,399,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01de437cb336b155.jpg 462,42,941,767,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01df449e00e4354e.jpg 170,16,596,1023,0
+C:\Users\ateeb\Desktop\OIDv4_ToolKit\OID\Dataset\train\Dog\01e246a6184e8a58.jpg 142,548,221,648,0 230,533,291,663,0 256,522,403,658,0 357,462,445,544,0 388,389,465,497,0

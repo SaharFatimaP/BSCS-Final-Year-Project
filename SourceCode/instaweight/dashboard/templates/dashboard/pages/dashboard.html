@@ -1,0 +1,84 @@
+{% extends 'dashboard/pages/base.html' %}
+{% load static %}
+
+{% block extra_styles %}
+<link rel="stylesheet" href="{% static 'dashboard/css/styles.css' %}">
+<link rel="stylesheet" href="{% static 'dashboard/css/chartist.min.css' %}">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.css">
+{% endblock extra_styles %}
+
+{% block title %}
+<title>Dashboard</title>
+{% endblock title %}
+
+{% block main_content %}
+<div class="card">
+    <div class="card-header py-3">
+        <h4 class=" text-capitalize text-secondary">Welcome to Cattlepal</h4>
+    </div>
+    <div class="card-body">
+        <div>
+            <h3>Daily Scan Status:</h3>
+        </div>
+        <div class="row pt-3">
+            <div class="col-6">
+                <div class="card">
+                    <div class="card-body">
+
+                        <h5 class="text-muted"> <i class="fa fa-bar-chart" style="font-size:36px; color:purple"> &#xf080; </i>  Total Cattle </h5>
+                        <h5>{{total_cattle}}</h5>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="text-muted"> <i class="fa fa-area-chart" style="font-size:36px; color:purple"> &#xf1fe; </i>  Scan Cattle </h5>
+                        <h5>880</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row my-3">
+            <div class="col-sm-12 col-lg-4">
+                {% include 'dashboard/widgets/category_distribution.html' %}
+            </div>
+            <div class="col-sm-12 col-lg-8">
+                {% include 'dashboard/widgets/monthly_progress.html' %}
+            </div>
+            
+        </div>
+
+        <div class="row my-3">
+            <div class="col-sm-12 col-lg-4">
+                {% include 'dashboard/widgets/weight_distribution.html' %}
+            </div>
+            <div class="col-sm-12 col-lg-8">
+
+                {% include 'dashboard/widgets/need_care.html' %}
+            </div>
+        </div>
+        <div class="row my-3">
+            <div class="col-sm-12 col-lg-4">
+                {% include 'dashboard/widgets/need_care_pie.html' %}
+            </div>
+
+
+        </div>
+    </div>
+</div>
+{% endblock main_content %}
+
+{% block extra_scripts %}
+<script href="{% static 'dashboard/js/chartist.min.js' %}">  </script>
+<script href="{% static 'dashboard/js/charts.js' %}"> </script>
+<script href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.js"></script>
+<script href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js"> </script>
+<script href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.js"></script>
+<script href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
+{% endblock extra_scripts %}

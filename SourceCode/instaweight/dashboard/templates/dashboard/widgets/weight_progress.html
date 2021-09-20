@@ -1,0 +1,38 @@
+{% load static %}
+
+<div class="card h-100">
+
+    <canvas id="progress" width="10"></canvas>
+
+</div>
+
+<script>
+
+    var ctx = document.getElementById('progress').getContext('2d');
+    var chart = new Chart(ctx, {
+        // The type of chart we want to create
+        type: 'line',
+
+        // The data for our dataset
+        data: {
+            labels: [
+                {% for date in dates %}
+                    '{{ date }}',
+                {% endfor %}
+            ],
+    datasets: [{
+        label: 'Daily Progress Report  ',
+        backgroundColor: 'rgb(255, 255, 255, 0.2)',
+        borderColor: 'rgb(0, 128, 128, 1)',
+        data: {{ weights }}, 
+            }]
+        },
+
+    // Configuration options go here
+    options: {
+
+        
+    }
+    });
+
+</script>

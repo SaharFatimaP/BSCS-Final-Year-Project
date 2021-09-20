@@ -1,0 +1,258 @@
+{% extends 'dashboard/pages/base.html' %} {% load static %} {% block extra_styles %}
+<script src="https://unpkg.com/konva@4.1.2/konva.min.js"></script>
+{% endblock extra_styles %} {% block main_content %}
+<div class="card">
+    <div class="card-header ">
+        <div class="row">
+            <div class="col-6">
+                <h4 class=" text-capitalize text-secondary">Daily Weight Progress</h4>
+            </div>
+            <div class="col-6 text-right">
+                <a href="{% url 'cattle_view' cattle.id %}?{{request.GET.urlencode}} " class="btn btn-dark"> Go Back </a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-body">
+        <div id="container" class="p-2">
+            <div class="konvajs-content" role="presentation" style="overflow: scroll;"></div>
+        </div>
+        <div class="p-2">
+            <form action="" id="weight-form" enctype="multipart/form-data" method="POST">
+                <div class="row">
+                    <div class="col-6 pt-2">
+                        <div class="custom-file">
+                            <input id="image-button" name="image" type="file" class="custom-file-input" id="customFile" required />
+                            <label id="image-label" class="custom-file-label" for="customFile">Choose Image</label>
+                        </div>
+                    </div>
+                </div>
+                {% csrf_token %}
+                <div class="row">
+                    <div class="col-6">
+                        <div class="custom-file my-2">
+                            <input type="file" class="custom-file-input" name="depth-image" id="depth-image-input" required />
+                            <label id="depth-image-label" class="custom-file-label" for="depth-image-input">Choose Depth Image</label>
+                        </div>
+                    </div>
+
+                </div>
+
+                <button id="calculate-weight" type="submit" class="btn btn-dark mt-2">
+              Calculate Weight
+            </button>
+            </form>
+        </div>
+        <div class="col-12">
+            <div class="row">
+                <div id="response" class="my-3 h4 col-6"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+
+
+<script>
+    // defining gloabal variables
+    var hgTop = [0, 0];
+    var hgBottom = [0, 0];
+    var frontShoulder = [0, 0];
+    var pinBone = [0, 0];
+    var imageObj = new Image();
+
+    // main API:
+    imageObj.onload = function() {
+        // Konva Stage
+        var stage = new Konva.Stage({
+            container: "container",
+            width: 1280,
+            height: 720
+        });
+
+        // Image Layer
+        var imgLayer = new Konva.Layer();
+        stage.add(imgLayer);
+
+        var pointersLayer = new Konva.Layer();
+        stage.add(pointersLayer);
+
+        pointersLayer.add(addPointer(stage, "Heart Gith Top", "down", hgTop));
+        pointersLayer.add(addPointer(stage, "Heart Gith Bottom", "up", hgBottom));
+        pointersLayer.draw();
+
+        stage.on("click tap", function(e) {
+            // if click on empty area - remove all transformers
+            if (e.target === stage) {
+                stage.find("Transformer").destroy();
+                pointersLayer.draw();
+                return;
+            }
+            stage.find("Transformer").destroy();
+
+            // create new transformer
+            var tr = new Konva.Transformer();
+            pointersLayer.add(tr);
+            tr.attachTo(e.target);
+            pointersLayer.draw();
+        });
+
+        var yoda = new Konva.Image({
+            x: 0,
+            y: 0,
+            image: imageObj,
+            width: 1280,
+            height: 720
+        });
+
+        // add the shape to the layer
+        imgLayer.add(yoda);
+        imgLayer.draw();
+    };
+
+    function addPointer(stage, name, direction, position) {
+        // tooltip
+        let tooltip = new Konva.Label({
+            x: position[0],
+            y: position[1],
+            name: name,
+            draggable: true,
+            opacity: 0.75
+        });
+
+        tooltip.add(
+            new Konva.Tag({
+                fill: "black",
+                pointerDirection: direction,
+                pointerWidth: 20,
+                pointerHeight: 20,
+                lineJoin: "round",
+
+                shadowColor: "black",
+                shadowBlur: 10,
+                shadowOffsetX: 10,
+                shadowOffsetY: 10,
+                shadowOpacity: 0.5
+            })
+        );
+
+        tooltip.add(
+            new Konva.Text({
+                text: name,
+                fontFamily: "Calibri",
+                fontSize: 18,
+                padding: 5,
+                fill: "white"
+            })
+        );
+
+        tooltip.on("dragend", function(e) {
+            let x = e.currentTarget.attrs.x;
+            let y = e.currentTarget.attrs.y;
+            console.log(x, y)
+            if (e.currentTarget.attrs.name === "Heart Gith Top") {
+                hgTop = [x, y];
+            } else if (e.currentTarget.attrs.name === "Heart Gith Bottom") {
+                hgBottom = [x, y];
+            } else if (e.currentTarget.attrs.name === "Front Shoulder") {
+                frontShoulder = [x, y];
+            } else if (e.currentTarget.attrs.name === "Pin Bone") {
+                pinBone = [x, y];
+            }
+        });
+
+        return tooltip;
+    }
+</script>
+<script>
+    $(() => {
+        // registering event handeler for image load
+        $("#image-button").change(e => {
+            let reader = new FileReader();
+            $("#image-label").html(e.target.files[0].name)
+            reader.readAsDataURL(e.target.files[0]);
+            reader.onload = function(e) {
+
+
+                let form = document.getElementById("weight-form");
+                let formData = new FormData(form);
+                console.log(formData, $.post)
+                $.ajax({
+                    url: "{%  url 'predict' %}",
+                    type: "post",
+                    data: formData,
+                    contentType: false,
+                    processData: false,
+                    success: function(response) {
+                        jsonResponse = JSON.parse(response)
+                        hgTop = jsonResponse.hgTop
+                        hgBottom = jsonResponse.hgBottom
+                            // browser completed reading file - display it
+                        imageObj.src = e.target.result;
+                    },
+                    error: function(error) {
+                        console.log(error)
+                    }
+                });
+
+
+            };
+        });
+
+        $("#depth-image-input").change(e => {
+            $("#depth-image-label").html(e.target.files[0].name)
+        });
+
+
+        $("#calculate-weight").click(e => {
+            let data = {
+                hgTop,
+                hgBottom,
+                frontShoulder,
+                pinBone
+            };
+            //console.log(data);
+        });
+
+        $("#weight-form").submit(e => {
+            e.preventDefault();
+            let form = document.getElementById("weight-form");
+            //console.log(form)
+            //let formData = new FormData(form)
+            //formData.append("points","hi")
+            //console.log(formData)
+
+            let formData = new FormData(form);
+            formData.append(
+                "points",
+                JSON.stringify({
+                    hgTop,
+                    hgBottom,
+                    frontShoulder,
+                    pinBone
+                })
+            );
+
+            $.ajax({
+                url: "",
+                type: "post",
+                data: formData,
+                contentType: false,
+                processData: false,
+                success: function(response) {
+                    console.log(response)
+                    $("#response").html(response);
+
+                },
+                error: function(error) {
+                    console.log(error)
+                    $("#response").html(`<h5 class="text-danger">${error.statusText}</h5><h5>${error.responseText}</h5>`);
+                }
+            });
+        });
+    });
+</script>
+
+{% endblock main_content %}

@@ -1,0 +1,35 @@
+<h5 class="text-success">Calculated Values</h5>
+<div class="row">
+    <div class="col-md-6">Girth Raw (inches):</div>
+    <div class="col-md-6">{{heart_gith_raw}}</div>
+</div>
+<div class="row">
+    <div class="col-md-6">Girth Raw Smoothed (inches):</div>
+    <div class="col-md-6">{{heart_girth_smoothed}}</div>
+</div>
+<!--div class="row">
+    <div class="col-md-6">Body Length Raw (inches):</div>
+    <div class="col-md-6">{{body_length_raw}}</div>
+</div>
+<div class="row">
+    <div class="col-md-6">Body Length Raw Smoothed (inches):</div>
+    <div class="col-md-6">{{body_length_smoothed}}</div>
+</div-->
+<div class="row">
+    <div class="col-md-6">Weight Using Raw Data (KGs):</div>
+    <div class="col-md-6">{{weight_using_raw_data}}</div>
+</div>
+<div class="row">
+    <div class="col-md-6">Weight Using Smoothed Data (KGs):</div>
+    <div class="col-md-6">{{weight_using_smoothed_data}}</div>
+</div>
+<!--div class="row">
+    <div class="col-md-6">Weight Using Smoothed body length (KGs):</div>
+    <div class="col-md-6">{{weight_using_smoothed_bl}}</div>
+</div-->
+<form action='{% url "log_weight" cattle.id %}' class="pt-4" method='POST'>
+    {% csrf_token %}
+    <input name="weight" value="{{weight_using_smoothed_data}}" hidden>
+    <input name="heart_girth" value="{{heart_girth_smoothed}}" hidden>
+    <button class="btn btn-dark">Save Weight</button>
+</form>

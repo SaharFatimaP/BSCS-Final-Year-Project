@@ -1,0 +1,59 @@
+{% extends 'dashboard/pages/base.html' %} {% load static %} {% block main_content %}
+<div class="card">
+    <div class="card-header py-3">
+        <div class="row">
+            <div class="col-6">
+                <h4 class=" text-capitalize text-secondary">Daily Weight Progress Details</h4>
+            </div>
+            <div class="col-6 text-right">
+                <form>
+                    <a href="{% url 'cattle_view' detail_daily_weight.cattle.id %}" class="btn btn-dark"> Go Back </a>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-body">
+        <div class="row justify-content-center">
+            <!--div >
+                <div class="card mr-1 " style="width:400px">
+                    <img class="card-img-top" src="" alt="Card image">
+
+                </div>
+            </div>
+
+            <div>
+                <div class="card ml-1 " style="width:400px">
+                    <img class="card-img-top" src="" alt="Card image">
+
+                </div>
+            </div-->
+        </div>
+        <div class="row justify-content-center">
+            <div class="card w-75 align-self-center text-white">
+                <table class=" table table-striped table-light">
+                    <tbody>
+                        <thead>
+                            <th scope="col"> Date Time</th>
+                            <th scope="col">Heart Girth</th>
+                            <th scope="col">Diagonal Length</th>
+                            <th scope="col">Weight</th>
+                        </thead>
+
+                        <tr>
+                            <td>{{detail_daily_weight.date_time}}</td>
+                            <td>{{detail_daily_weight.heart_girth}} inches </td>
+                            <td>{{detail_daily_weight.diagonal_len}} inches</td>
+                            <td>{{detail_daily_weight.weight}} kgs</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% endblock main_content %}
